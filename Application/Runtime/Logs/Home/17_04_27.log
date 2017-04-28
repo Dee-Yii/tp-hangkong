@@ -1,0 +1,18 @@
+[ 2017-04-27T21:05:22+08:00 ] ::1 /tp/index.php/Home/good/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-27T21:05:44+08:00 ] ::1 /tp/index.php/Home/good/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-27T21:06:26+08:00 ] ::1 /tp/index.php/Home/good/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+

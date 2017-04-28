@@ -1,0 +1,30 @@
+[ 2017-04-26T21:11:00+08:00 ] ::1 /tp/index.php/Home/trades/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.274015s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-26T21:12:09+08:00 ] ::1 /tp/index.php/Home/trades/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-26T21:12:20+08:00 ] ::1 /tp/index.php/Home/trades/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-26T21:12:26+08:00 ] ::1 /tp/index.php/Home/trades/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-26T21:12:36+08:00 ] ::1 /tp/index.php/Home/trades/getlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+

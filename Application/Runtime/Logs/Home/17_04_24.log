@@ -1,0 +1,18 @@
+[ 2017-04-24T21:00:40+08:00 ] ::1 /tp/index.php/Home/trades/keep
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.062003s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-24T21:01:11+08:00 ] ::1 /tp/index.php/Home/trades/keep
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-04-24T21:08:46+08:00 ] ::1 /tp/index.php/Home/trades/out
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
