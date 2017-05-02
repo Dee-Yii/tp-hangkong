@@ -19,6 +19,8 @@ return array(
       '__CSS__' => __ROOT__.'/Public/template/assets/css',
       '__JS__' => __ROOT__.'/Public/template/assets/js',
       '__IMG__' => __ROOT__.'/Public/template/assets/img',
-      '__FRONTS__' => __ROOT__.'/Public/template/assets/front'
+      '__FRONTS__' => __ROOT__.'/Public/template/assets/front',
+      '__ROOTHOME__'=>__ROOT__.'/index.php/Home'
+    )
 
 );

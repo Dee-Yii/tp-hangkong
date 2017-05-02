@@ -10,11 +10,13 @@ class UserController extends Controller {
      public function __construct()
     {
       # code...
+      parent::__construct();
       if(!session('user')){
         //$this->ajaxReturn(array('code'=>-1,'message'=>'fail','data'=>'not login'));
 
       }
     }
+
     public function getList(){
       $user_info =M('userInfo');
       //dump($user_info);exit;
@@ -48,9 +50,12 @@ class UserController extends Controller {
        $data['page'] = $page;
        $data['totalPages'] = ceil($count/$pageNum);
        $data['list'] = $list;
-
            $this->ajaxReturn($data);
     }
+
+
+
+
     public function exceFile(){
       import("Org.Util.PHPExcel");
       import("Org.Util.PHPExcel.Worksheet.Drawing");
@@ -102,5 +107,7 @@ class UserController extends Controller {
         $objWriter->save('php://output'); //文件通过浏览器下载
 
     }
-
+    public function orgindex(){
+        $this->display('accountManage/orgManage');
+    }
 }

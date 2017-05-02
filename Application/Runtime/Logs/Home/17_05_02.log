@@ -1,0 +1,1456 @@
+[ 2017-05-02T20:35:03+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:36:43+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:37:18+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:37:19+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:38:22+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:38:23+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:38:23+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:38:37+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:38:48+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:39:03+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:39:26+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:40:14+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:40:15+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:40:30+08:00 ] ::1 /tp/index.php/Home/user/getList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:40:38+08:00 ] ::1 /tp/index.php/Home/user/exceFile
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:41:20+08:00 ] ::1 /tp/index.php/Home/user/getlistIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:41:32+08:00 ] ::1 /tp/index.php/Home/user/getlistIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:41:40+08:00 ] ::1 /tp/index.php/Home/user/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:41:56+08:00 ] ::1 /tp/index.php/Home/user/listindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:42:01+08:00 ] ::1 /tp/index.php/Home/user/listindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:42:12+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:42:32+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:42:52+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:43:15+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:45:14+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:45:14+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:46:10+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 模板不存在:./Application/Home/View/./Application/Admin/View/Public/menu.html.html
+
+[ 2017-05-02T20:46:39+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:49:46+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:50:48+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:50:49+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:50:49+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:51:33+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:52:13+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:52:49+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:55:46+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:56:02+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T20:59:05+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:00:19+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:01:48+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:02:18+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:02:19+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:02:19+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:02:28+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:02:29+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:02:29+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:02:52+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:02:53+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:02:54+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:02:54+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:03:53+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:04:07+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:04:08+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:04:08+08:00 ] ::1 /tp/index.php/Home/user/__JS__/vendor/layer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:__JS__
+
+[ 2017-05-02T21:06:52+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:07:32+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:08:10+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:09:05+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:11:04+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:13:59+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:14:52+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:19:17+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:21:45+08:00 ] ::1 /tp/index.php/Home/user/orgindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:22:22+08:00 ] ::1 /tp/index.php/Home/user/orgindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:23:20+08:00 ] ::1 /tp/index.php/Home/user/orgindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:25:11+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:36+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:37+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:38+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:38+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:38+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:38+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:38+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:38+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:39+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:25:39+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:26:02+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:26:03+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:26:19+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:26:19+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:26:49+08:00 ] ::1 /tp/index.php/Home/accountManage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:28:03+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:28:13+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:29:28+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:29:34+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:30:35+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:30:49+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:35:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:36:08+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:37:42+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:37:56+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:37:59+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:38:19+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:38:24+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:39:35+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:39:37+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:43:09+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:43:10+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:43:11+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T21:43:15+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:43:35+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:43:48+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:43:49+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:43:49+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:02+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:08+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:21+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:22+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:22+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:23+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:23+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:23+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:23+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:45:45+08:00 ] ::1 /tp/index.php/Home/user/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 非法操作:index
+
+[ 2017-05-02T21:45:55+08:00 ] ::1 /tp/index.php/Home/user/orgindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:45:59+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:01+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:02+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:03+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:04+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:15+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:25+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:46:46+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:48:55+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:48:57+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:48:59+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:49:52+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:51:18+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:51:20+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:51:21+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T21:56:25+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:56:35+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:56:40+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:56:48+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:56:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:57:11+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:57:15+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:57:43+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:57:44+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:58:11+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:58:52+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:58:53+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:58:53+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:58:53+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:58:53+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:22+08:00 ] ::1 /tp/index.php/Home/Accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:29+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:49+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T21:59:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Accountmanage
+
+[ 2017-05-02T22:00:11+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 模板不存在:./Application/Home/View/accountManage/orgManage.html
+
+[ 2017-05-02T22:00:31+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgmanage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:00:33+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:00:45+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:02:18+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:02:19+08:00 ] ::1 /tp/index.php/Home/accountManage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:AccountManage
+
+[ 2017-05-02T22:03:19+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:21+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:23+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:24+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:25+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:26+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:43+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:03:58+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:06+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:07+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:45+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:46+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:47+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:48+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:49+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:49+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:50+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:04:52+08:00 ] ::1 /tp/index.php/Home/clientManage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:ClientManage
+
+[ 2017-05-02T22:05:59+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:06:01+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:06:03+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:06:23+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:07:30+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:11:28+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:11:29+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:15:03+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:15:10+08:00 ] ::1 /tp/index.php/Home/accountmanage/orgManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:15:11+08:00 ] ::1 /tp/index.php/Home/accountmanage/userManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:15:12+08:00 ] ::1 /tp/index.php/Home/accountmanage/brokerManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:15:13+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:17:35+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:17:36+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:17:39+08:00 ] ::1 /tp/index.php/Home/clientmanage/pingCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:17:39+08:00 ] ::1 /tp/index.php/Home/clientmanage/pingCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:17:41+08:00 ] ::1 /tp/index.php/Home/clientmanage/chuRuJinSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:17:41+08:00 ] ::1 /tp/index.php/Home/clientmanage/chuRuJinSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:12+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:14+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:18+08:00 ] ::1 /tp/index.php/Home/clientmanagege/pingCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:27+08:00 ] ::1 /tp/index.php/Home/clientmanagege/chuRuJinSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:34+08:00 ] ::1 /tp/index.php/Home/clientmanagege/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:38+08:00 ] ::1 /tp/index.php/Home/clientmanagege/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:39+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:39+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:42+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:43+08:00 ] ::1 /tp/index.php/Home/clientmanagege/pingCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:48+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:49+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:19:51+08:00 ] ::1 /tp/index.php/Home/clientmanagege/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:53+08:00 ] ::1 /tp/index.php/Home/clientmanagege/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:54+08:00 ] ::1 /tp/index.php/Home/clientmanagege/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:19:56+08:00 ] ::1 /tp/index.php/Home/clientmanagege/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Clientmanagege
+
+[ 2017-05-02T22:20:32+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:33+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:34+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:35+08:00 ] ::1 /tp/index.php/Home/clientmanage/clientList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:36+08:00 ] ::1 /tp/index.php/Home/clientmanage/pingCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:37+08:00 ] ::1 /tp/index.php/Home/clientmanage/chuRuJinSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:37+08:00 ] ::1 /tp/index.php/Home/clientmanage/pingCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:38+08:00 ] ::1 /tp/index.php/Home/clientmanage/chuRuJinSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:20:40+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:21:53+08:00 ] ::1 /tp/index.php/Home/clientmanage/chiCangSearch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:24:56+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Countmanage
+
+[ 2017-05-02T22:25:06+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+ERR: 无法加载控制器:Countmanage
+
+[ 2017-05-02T22:25:36+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:25:46+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:27:25+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:27:29+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:27:31+08:00 ] ::1 /tp/index.php/Home/sysmanage/pwdManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:28:22+08:00 ] ::1 /tp/index.php/Home/sysmanage/pwdManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
+[ 2017-05-02T22:28:30+08:00 ] ::1 /tp/index.php/Home/countmanage/countTable
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant APP_DEBUG already defined D:\phpStudy\WWW\tp\Application\Home\Conf\config.php 第 17 行.
+
