@@ -1,1 +1,24 @@
-!function(n){n.fn.tabs=function(t){var e=n.extend({btn:".tab_btn",page:".tab_content",current:"active"},t);return this.each(function(){var t=n(this);t.find(e.btn).on("click",function(){var i=n(this),r=i.index();return!i.hasClass(e.current)&&(i.addClass(e.current).siblings().removeClass(e.current),void t.find(e.page).eq(r).show().siblings().hide())})})}}(jQuery);
+/**
+ * Tab
+ */
+(function ($) {
+	$.fn.tabs = function (options) {
+		// 设置默认参数
+		var settings = $.extend({
+			'btn': '.tab_btn',
+			'page': '.tab_content',
+			'current': 'active'
+		},options);
+		// 维护链式调用
+		return this.each(function () {
+			var that = $(this);
+			that.find(settings.btn).on('click',function () {
+                var _this = $(this);
+				var index =  _this.index();
+                if(_this.hasClass(settings.current)) return false;
+                _this.addClass(settings.current).siblings().removeClass(settings.current);
+				that.find(settings.page).eq(index).show().siblings().hide();
+			})
+		})
+	};
+})(jQuery);

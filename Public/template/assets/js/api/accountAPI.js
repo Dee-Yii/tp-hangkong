@@ -1,1 +1,169 @@
-define(["jquery"],function(n){var o={addOrg:function(o,e){n.post("/addOrg.php",o,function(n){e(n)})},delOrg:function(o,e){n.post("/delOrg.php",o,function(n){e(n)})},changeOrg:function(o,e){n.post("/changeOrg.php",o,function(n){e(n)})},openOrg:function(o,e){n.post("/openOrg.php",o,function(n){e(n)})},closeOrg:function(o,e){n.post("/closeOrg.php",o,function(n){e(n)})},searchOrg:function(o,e){o.pageNum=10,n.post("__ROOT__/member/getList",o,function(n){e(n)})},addUser:function(o,e){n.post("/addUser.php",o,function(n){e(n)})},delUser:function(o,e){n.post("/delUser.php",o,function(n){e(n)})},changeUser:function(o,e){n.post("/changeUser.php",o,function(n){e(n)})},openUser:function(o,e){n.post("/openUser.php",o,function(n){e(n)})},closeUser:function(o,e){n.post("/closeUser.php",o,function(n){e(n)})},searchUser:function(o,e){o.pageNum=10,n.post("__ROOT__/member/getList",o,function(n){e(n)})},addUser:function(o,e){n.post("/addUser.php",o,function(n){e(n)})},delBroker:function(o,e){n.post("/delBroker.php",o,function(n){e(n)})},changeBroker:function(o,e){n.post("/changeBroker.php",o,function(n){e(n)})},openBroker:function(o,e){n.post("/openBroker.php",o,function(n){e(n)})},closeBroker:function(o,e){n.post("/closeBroker.php",o,function(n){e(n)})},searchBroker:function(o,e){o.pageNum=10,n.post("/agent/getList",o,function(n){e(n)})}};return o});
+/**
+ * Created by DAY on 2017/4/15.
+ */
+
+define(["jquery"], function ($) {
+    var accountAPI = {
+
+         baseRequestUrl:"../",
+        /**
+         * 机构管理-新建机构
+         */
+        addOrg: function (data,cb) {
+
+            $.post(this.baseRequestUrl+"member/add",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 机构管理-删除
+         */
+        delOrg: function (data,cb) {
+            $.post("/delOrg.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 机构管理-修改
+         */
+        changeOrg: function (data,cb) {
+            $.post("/changeOrg.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 机构管理-启用
+         */
+        openOrg: function (data,cb) {
+            $.post("/openOrg.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 机构管理-禁用
+         */
+        closeOrg: function (data,cb) {
+            $.post("/closeOrg.php",data,function (result) {
+                cb(result);
+            })
+        },
+
+        /**
+         * 机构管理-查询
+         */
+        searchOrg: function (data,cb) {
+            data.pageNum = 10;
+            $.post(this.baseRequestUrl+"member/getList",data,function (result) {
+                cb(result);
+            })
+        },
+
+
+        /**
+         * 用户管理-新建机构
+         */
+        addUser: function (data,cb) {
+            $.post("/addUser.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 用户管理-删除
+         */
+        delUser: function (data,cb) {
+            $.post("/delUser.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 用户管理-修改
+         */
+        changeUser: function (data,cb) {
+            $.post("/changeUser.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 用户管理-启用
+         */
+        openUser: function (data,cb) {
+            $.post("/openUser.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 用户管理-禁用
+         */
+        closeUser: function (data,cb) {
+            $.post("/closeUser.php",data,function (result) {
+                cb(result);
+            })
+        },
+
+        /**
+         * 用户管理-查询
+         */
+        searchUser: function (data,cb) {
+            data.pageNum = 10;
+            $.post(this.baseRequestUrl+"user/getList",data,function (result) {
+                cb(result);
+            })
+        },
+
+
+        /**
+         * 经纪人管理-新建机构
+         */
+        addUser: function (data,cb) {
+            $.post("/addUser.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 经纪人管理-删除
+         */
+        delBroker: function (data,cb) {
+            $.post("/delBroker.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 经纪人管理-修改
+         */
+        changeBroker: function (data,cb) {
+            $.post("/changeBroker.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 经纪人管理-启用
+         */
+        openBroker: function (data,cb) {
+            $.post("/openBroker.php",data,function (result) {
+                cb(result);
+            })
+        },
+        /**
+         * 经纪人管理-禁用
+         */
+        closeBroker: function (data,cb) {
+            $.post("/closeBroker.php",data,function (result) {
+                cb(result);
+            })
+        },
+
+        /**
+         * 经纪人管理-查询
+         */
+        searchBroker: function (data,cb) {
+            data.pageNum = 10;
+
+            $.post("/agent/getList",data,function (result) {
+                cb(result);
+            })
+        }
+
+
+    };
+    return accountAPI;
+});

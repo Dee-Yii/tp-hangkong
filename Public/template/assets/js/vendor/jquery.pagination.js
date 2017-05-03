@@ -1,1 +1,120 @@
-!function(n){var a={init:function(n,t){return function(){a.fillHtml(n,t),a.bindEvent(n,t)}()},fillHtml:function(n,a){return function(){n.empty(),a.current>1?n.append('<a href="javascript:;" class="prevPage"> &lt; </a>'):(n.remove(".prevPage"),n.append('<span class="disabled"> &lt; </span>')),1!=a.current&&a.current>=4&&4!=a.pageCount&&n.append('<a href="javascript:;" class="tcdNumber">1</a>'),a.current-2>2&&a.current<=a.pageCount&&a.pageCount>5&&n.append("<span>...</span>");var t=a.current-2,e=a.current+2;for((t>1&&a.current<4||1==a.current)&&e++,a.current>a.pageCount-4&&a.current>=a.pageCount&&t--;t<=e;t++)t<=a.pageCount&&t>=1&&(t!=a.current?n.append('<a href="javascript:;" class="tcdNumber">'+t+"</a>"):n.append('<span class="current">'+t+"</span>"));a.current+2<a.pageCount-1&&a.current>=1&&a.pageCount>5&&n.append("<span>...</span>"),a.current!=a.pageCount&&a.current<a.pageCount-2&&4!=a.pageCount&&n.append('<a href="javascript:;" class="tcdNumber">'+a.pageCount+"</a>"),a.current<a.pageCount?n.append('<a href="javascript:;" class="nextPage"> &gt; </a>'):(n.remove(".nextPage"),n.append('<span class="disabled"> &gt; </span>')),a.hasGo&&n.append('<em>跳转到</em><input type="text">')}()},bindEvent:function(t,e){return t.unbind(),function(){t.on("click","a.tcdNumber",function(){var r=parseInt(n(this).text());a.fillHtml(t,{current:r,pageCount:e.pageCount,hasGo:e.hasGo}),"function"==typeof e.backFn&&e.backFn(r)}),t.on("click","a.prevPage",function(){var n=parseInt(t.children("span.current").text());a.fillHtml(t,{current:n-1,pageCount:e.pageCount,hasGo:e.hasGo}),"function"==typeof e.backFn&&e.backFn(n-1)}),t.on("click","a.nextPage",function(){var n=parseInt(t.children("span.current").text());a.fillHtml(t,{current:n+1,pageCount:e.pageCount,hasGo:e.hasGo}),"function"==typeof e.backFn&&e.backFn(n+1)}),t.on("blur","input",function(){var r=n(this).val(),c=parseInt(r);return isNaN(c)||c<1||c>e.pageCount?void console.warn("无效的页码"):(a.fillHtml(t,{current:c,pageCount:e.pageCount,hasGo:e.hasGo}),void("function"==typeof e.backFn&&e.backFn(c)))})}()}};n.fn.createPage=function(t){var e=n.extend({pageCount:10,current:1,hasGo:!0,backFn:function(){}},t);a.init(this,e)}}(jQuery);
+//分页插件
+
+(function ($) {
+    var ms = {
+        init: function (obj, args) {
+            return (function () {
+                ms.fillHtml(obj, args);
+                ms.bindEvent(obj, args);
+            })();
+        },
+        //填充html
+        fillHtml: function (obj, args) {
+            return (function () {
+                obj.empty();
+                //上一页
+                if (args.current > 1) {
+                    obj.append('<a href="javascript:;" class="prevPage"> &lt; </a>');
+                } else {
+                    obj.remove('.prevPage');
+                    obj.append('<span class="disabled"> &lt; </span>');
+                }
+                //中间页码
+                if (args.current != 1 && args.current >= 4 && args.pageCount != 4) {
+                    obj.append('<a href="javascript:;" class="tcdNumber">' + 1 + '</a>');
+                }
+                if (args.current - 2 > 2 && args.current <= args.pageCount && args.pageCount > 5) {
+                    obj.append('<span>...</span>');
+                }
+                var start = args.current - 2, end = args.current + 2;
+                if ((start > 1 && args.current < 4) || args.current == 1) {
+                    end++;
+                }
+                if (args.current > args.pageCount - 4 && args.current >= args.pageCount) {
+                    start--;
+                }
+                for (; start <= end; start++) {
+                    if (start <= args.pageCount && start >= 1) {
+                        if (start != args.current) {
+                            obj.append('<a href="javascript:;" class="tcdNumber">' + start + '</a>');
+                        } else {
+                            obj.append('<span class="current">' + start + '</span>');
+                        }
+                    }
+                }
+                if (args.current + 2 < args.pageCount - 1 && args.current >= 1 && args.pageCount > 5) {
+                    obj.append('<span>...</span>');
+                }
+                if (args.current != args.pageCount && args.current < args.pageCount - 2 && args.pageCount != 4) {
+                    obj.append('<a href="javascript:;" class="tcdNumber">' + args.pageCount + '</a>');
+                }
+                //下一页
+                if (args.current < args.pageCount) {
+                    obj.append('<a href="javascript:;" class="nextPage"> &gt; </a>');
+                } else {
+                    obj.remove('.nextPage');
+                    obj.append('<span class="disabled"> &gt; </span>');
+                }
+
+                // 跳转到
+                if (args.hasGo) {
+                    obj.append('<em>跳转到</em><input type="text">');
+                }
+            })();
+        },
+        //绑定事件
+        bindEvent: function (obj, args) {
+            obj.unbind(); // 防止多次渲染分页时 时间多次绑定
+            //console.log(obj.children())
+            return (function () {
+                obj.on("click", "a.tcdNumber", function () {
+                    var current = parseInt($(this).text());
+                    ms.fillHtml(obj, {"current": current, "pageCount": args.pageCount, "hasGo": args.hasGo});
+                    if (typeof(args.backFn) == "function") {
+                        args.backFn(current);
+                    }
+                });
+                //上一页
+                obj.on("click", "a.prevPage", function () {
+                    var current = parseInt(obj.children("span.current").text());
+                    ms.fillHtml(obj, {"current": current - 1, "pageCount": args.pageCount, "hasGo": args.hasGo});
+                    if (typeof(args.backFn) == "function") {
+                        args.backFn(current - 1);
+                    }
+                });
+                //下一页
+                obj.on("click", "a.nextPage", function () {
+                    var current = parseInt(obj.children("span.current").text());
+                    ms.fillHtml(obj, {"current": current + 1, "pageCount": args.pageCount, "hasGo": args.hasGo});
+                    if (typeof(args.backFn) == "function") {
+                        args.backFn(current + 1);
+                    }
+                });
+
+                // 跳转到
+                obj.on("blur", "input", function () {
+                    var value = $(this).val();
+                    var current = parseInt(value);
+                    if (isNaN(current) || current < 1 || current > args.pageCount) {
+                        console.warn("无效的页码");
+                        return
+                    }
+                    ms.fillHtml(obj, {"current": current, "pageCount": args.pageCount, "hasGo": args.hasGo});
+                    if (typeof(args.backFn) == "function") {
+                        args.backFn(current);
+                    }
+                });
+            })();
+        }
+    };
+    $.fn.createPage = function (options) {
+        var args = $.extend({
+            pageCount: 10,
+            current: 1,
+            hasGo: true,
+            backFn: function () {
+            }
+        }, options);
+        ms.init(this, args);
+    }
+})(jQuery);

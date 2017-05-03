@@ -41,11 +41,15 @@ class MemberController extends Controller {
     }
     public function add(){
       $member_info =M('member_info');
-      $memberId = $_POST['memberId'];
-      $
-
-
-
+      $memberId = $_POST['memberId'];//机构编码
+      $name = $_POST['name'];//机构名称
+      $superMemberid = $_POST['superMemberid'];
+    }
+    //查询所有根机构
+    public function getRootList(){
+      $member_info =M('member_info');
+      $data = $member_info->where("superMemberid is Null and status = 1")->select();//获取分页数据
+      $this->ajaxReturn($data);
     }
     public function exceFile(){
       import("Org.Util.PHPExcel");

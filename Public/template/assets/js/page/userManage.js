@@ -1,1 +1,153 @@
-define(["jquery","utils","config","accountAPI","layer","pagination","remodal"],function(e,o,t,i){var n=e("[data-remodal-id=addUserModal]").remodal(),s=e("[data-remodal-id=changeUserModal]").remodal(),l=e("[data-remodal-id=resetPwdModal]").remodal(),d=e("body"),p={init:function(){this.render(),this.bindEvents()},render:function(){this.initModal(),this.fnGetList({},!0)},bindEvents:function(){this.onSearch(),this.onSelectAll(),this.onAdd()},initModal:function(){e(".J_showAdd").on("click",function(){n.open()}),d.on("click",".J_showChangeUser",function(){var o=e(this),t=o.parents("tr").find("td"),i=t.eq(4).text(),n=t.eq(1).text(),l=t.eq(2).text(),d=t.eq(3).text(),p=e(".changeUserModal .modalForm");p.find("input[name=orgName]").val(i),p.find("input[name=username]").val(n),p.find("input[name=nickname]").val(l),p.find("input[name=roleType]").val(d),s.open()}),d.on("click",".J_showResetPwd",function(){var o=e(this),t=o.parents("tr").find("td"),i=t.eq(1).text(),n=t.eq(2).text(),d=e(".resetPwdModal .modalForm");d.find("input[name=username]").val(i),d.find("input[name=nickname]").val(n),s.open(),l.open()}),e(document).on("closed",".remodal",function(o){e(this).find(".modalForm")[0].reset()})},onSelectAll:function(){o.selectAll()},onSearch:function(){},onAdd:function(){var o=e(".addUserModal .remodal-confirm");o.on("click",function(){var o=e(this);if(!o.hasClass("disabled")){o.addClass("disabled");layer.msg("新建成功"),n.close(),console.log(1)}})},fnGetList:function(o,i){var n=this,s=e(".data-container table"),l={totalPages:91,pageNum:5,page:1,list:[{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"141474220113067346",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003017",close_position_time:"1490003077",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.06111",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"-1",handle:"0"},{tid:"7418135986911958157",uid:"5",code_id:"12",buy_sell:"-1",code:null,symbol:"fx_sjpycnh",name:"上海-东京1分钟",close_type:"6",amount:"3",open_position_time:"1490003025",close_position_time:"1490003085",gross_profit:"33.4023",open_price:"0.06111",open_cost:"33.4023",open_charge:"0.15",close_price:"0.061104",pos_limit:"0",stop:"0",deferred:"0",is_deferred:null,result:"1",handle:"0"}]};if(console.log("获取用户管理列表 调用成功!"),"0"==l.list.length)return s.find("tbody").empty().html("<tr><td colspan='9'>暂无记录</td></tr>"),e(".pagination").hide(),!1;var d,p='<td><input type="checkbox"></td>',_="<td><a class='J_showChangeUser text-blue' href='javascript:;'> 修改 </a> | <a class='J_showResetPwd text-blue' href='javascript:;'> 重置密码 </a></td>";if(e.each(l.list,function(e,o){var i="<td>"+o.code_id+"</td>",n="<td>"+o+"</td>",s="<td>"+t.orgType[o.orgType]+"</td>",l="<td>"+t.upLevel[o.upLevel]+"</td>",r="<td>"+o.phone+"</td>",c="<td>"+o.cellphone+"</td>",a="<td>"+t.orgStatus[o.orgStatus]+"</td>";d+='<tr class="fadeIn animated">'+p+i+n+s+l+r+c+a+_+"</tr>"}),s.find("tbody").empty().html(d),i){var r=l.totalPages;r>0&&(console.log("页数："+r),e(".pagination").show().html("").createPage({pageCount:r,current:1,backFn:function(e){var t=o;t.page=e,n.fnGetList(o)}}))}}};p.init()});
+define([
+    "jquery",
+    "utils",
+    "config",
+    "accountAPI",
+    "layer",
+    "pagination",
+    "remodal"
+], function ($, utils, config,accountAPI) {
+    var addUserModal = $('[data-remodal-id=addUserModal]').remodal();
+    var changeUserModal = $('[data-remodal-id=changeUserModal]').remodal();
+    var resetPwdModal = $('[data-remodal-id=resetPwdModal]').remodal();
+    var body = $("body");
+
+    var page = {
+        init: function () {
+            this.render();
+            this.bindEvents();
+        },
+        render: function () {
+            this.initModal();
+            this.fnGetList({}, true);
+        },
+        bindEvents: function () {
+            this.onSearch();
+            this.onSelectAll();
+            this.onAdd();
+        },
+        initModal: function () {
+            $(".J_showAdd").on("click", function () {
+                addUserModal.open();
+            });
+            body.on("click", ".J_showChangeUser", function () {
+                var $this = $(this);
+                var oTd = $this.parents('tr').find('td');
+                var orgName = oTd.eq(4).text();
+                var username = oTd.eq(1).text();
+                var nickname = oTd.eq(2).text();
+                var roleType = oTd.eq(3).text();
+                var oForm = $(".changeUserModal .modalForm");
+                oForm.find("input[name=orgName]").val(orgName);
+                oForm.find("input[name=username]").val(username);
+                oForm.find("input[name=nickname]").val(nickname);
+                oForm.find("input[name=roleType]").val(roleType);
+                changeUserModal.open();
+            });
+
+
+            body.on("click", ".J_showResetPwd", function () {
+                var $this = $(this);
+                var oTd = $this.parents('tr').find('td');
+                var username = oTd.eq(1).text();
+                var nickname = oTd.eq(2).text();
+                var oForm = $(".resetPwdModal .modalForm");
+                oForm.find("input[name=username]").val(username);
+                oForm.find("input[name=nickname]").val(nickname);
+                changeUserModal.open();
+                resetPwdModal.open();
+            });
+
+            $(document).on('closed', '.remodal', function (e) {
+                $(this).find(".modalForm")[0].reset();
+            });
+        },
+        onSelectAll: function () {
+            utils.selectAll();
+        },
+        onSearch: function () {
+
+        },
+        onAdd: function () {
+            var btn = $(".addUserModal .remodal-confirm");
+            btn.on("click",function () {
+                var $this = $(this);
+                if($this.hasClass("disabled")) return;
+                $this.addClass("disabled");
+                var data = {
+
+                };
+
+                layer.msg("新建成功");
+                addUserModal.close();
+                console.log(1);
+                // accountAPI.addOrg(data,function (result) {
+                //     addUserModal.close();
+                //     layer.msg("新建成功");
+                // });
+
+
+
+            })
+        },
+        fnGetList: function (data, initPage) {
+            var _this = this;
+            var table = $(".data-container table");
+            // showLoading(".J_consumeTable");
+            // var data = {};
+             accountAPI.searchUser(data, function (result) {
+
+
+            console.log("获取用户管理列表 调用成功!");
+            if (result.list.length == "0") {
+                table.find("tbody").empty().html("<tr><td colspan='9'>暂无记录</td></tr>");
+                $(".pagination").hide();
+                return false;
+            }
+            var oTr,
+                checkTd = '<td><input type="checkbox"></td>',
+                controlTd = "<td>" +
+                    "<a class='J_showChangeUser text-blue' href='javascript:;'> 修改 </a> | " +
+                    "<a class='J_showResetPwd text-blue' href='javascript:;'> 重置密码 </a>" +
+                    "</td>";
+            $.each(result.list, function (i, value) {
+                console.log(value);
+                var codeTd = '<td>' + value.uid + '</td>';
+                var orgNameTd = '<td>' + value.nickname + '</td>';
+                var orgTypeTd = '<td>' + config.orgType[value.orgType] + '</td>';
+                var upLevelTd = '<td>' + value.name + '</td>';
+                var phoneTd = '<td>' + value.phone + '</td>';
+                var cellphoneTd = '<td>' + value.lastLoginTime + '</td>';
+                if(value.status ==1){
+                  var statusTd = '<td>启用</td>';
+                }else{
+                  var statusTd = '<td>禁用</td>';
+                }
+                
+                oTr += '<tr class="fadeIn animated">' + checkTd + codeTd + orgNameTd + orgTypeTd + upLevelTd + phoneTd + cellphoneTd + statusTd + controlTd + '</tr>';
+            });
+            table.find("tbody").empty().html(oTr);
+
+            if (initPage) {
+                var pageCount = result.totalPages;
+                if (pageCount > 0) {
+                    console.log("页数：" + pageCount);
+                    $(".pagination").show().html("").createPage({
+                        pageCount: pageCount,
+                        current: 1,
+                        backFn: function (p) {
+                            var newData = data;
+                            newData.page = p;
+                            _this.fnGetList(data)
+                        }
+                    })
+                }
+            }
+          });
+        }
+
+
+    };
+    page.init();
+
+});

@@ -1,1 +1,7 @@
-define([],function(){var n={};return n});
+define([], function () {
+
+    var mock = {
+
+    };
+    return mock;
+});
