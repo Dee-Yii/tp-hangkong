@@ -5,28 +5,28 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <title></title>
-    <link rel="stylesheet" href="/tp/Public/template/assets/css/index.min.css">
+    <link rel="stylesheet" href="/tp-hangkong/Public/template/assets/css/index.min.css">
   </head>
   <body>
     <div class="wrap">
       <div class="header">
         <div class="clearfix layout">
-          <h1><a href="/tp/index.php/Home/accountmanage/orgManage">交易管理系统</a></h1>
-          <div><a href="/tp/index.php/Home/accountmanage/orgManage" class="active">账户管理</a><a href="/tp/index.php/Home/clientmanage/clientList">客户管理</a><a href="/tp/index.php/Home/countmanage/countTable">结算管理</a><a href="/tp/index.php/Home/sysmanage/pwdManage">系统管理</a></div>
+          <h1><a href="/tp-hangkong/index.php/Home/accountmanage/orgManage">交易管理系统</a></h1>
+          <div><a href="/tp-hangkong/index.php/Home/accountmanage/orgManage" class="active">账户管理</a><a href="/tp-hangkong/index.php/Home/clientmanage/clientList">客户管理</a><a href="/tp-hangkong/index.php/Home/countmanage/countTable">结算管理</a><a href="/tp-hangkong/index.php/Home/sysmanage/pwdManage">系统管理</a></div>
         </div>
       </div>
       <div class="main">
-        <div class="sidebar"><a href="/tp/index.php/Home/accountmanage/orgManage" class="active">机构管理</a><a href="/tp/index.php/Home/accountmanage/userManage">用户管理</a><a href="/tp/index.php/Home/accountmanage/brokerManage">经纪人管理</a>
-          <!--a(class="#{ level[1] == 4 ? 'active' : '' }" href="/tp/index.php/Home/accountmanage/wqManage") 微圈管理-->
+        <div class="sidebar"><a href="/tp-hangkong/index.php/Home/accountmanage/orgManage" class="active">机构管理</a><a href="/tp-hangkong/index.php/Home/accountmanage/userManage">用户管理</a><a href="/tp-hangkong/index.php/Home/accountmanage/brokerManage">经纪人管理</a>
+          <!--a(class="#{ level[1] == 4 ? 'active' : '' }" href="/tp-hangkong/index.php/Home/accountmanage/wqManage") 微圈管理-->
         </div>
         <div class="content">
           <div class="search-bar">
             <select name="type">
               <option value="">机构类型</option>
-              <option value="">航空</option>
-              <option value="">陆运</option>
+              <option value="">航运</option>
+              <!--<option value="">陆运</option>-->
             </select>
-            <select name="level">
+            <select name="level" class="J_rootmember">
               <option value="">上级机构</option>
               <option value="">航空</option>
               <option value="">陆运</option>
@@ -273,7 +273,7 @@
         <div class="remodal-footer"><a href="javascript:;" class="remodal-confirm">确 定</a></div>
       </div>
     </div>
-    <script src="/tp/Public/template/assets/js/vendor/require.js" data-main="/tp/Public/template/assets/js/common"></script>
+    <script src="/tp-hangkong/Public/template/assets/js/vendor/require.js" data-main="/tp-hangkong/Public/template/assets/js/common"></script>
     <script>
       require(['common'], function () {
           require(['page/orgManage']);

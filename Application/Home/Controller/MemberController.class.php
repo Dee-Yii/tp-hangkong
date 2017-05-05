@@ -26,7 +26,7 @@ class MemberController extends Controller {
          # code...
          $list[$key]['superMemberInfo'] = "";
          if(!empty($value['superMemberid'])){
-           $map['memberid'] = $value['superMemberid'];
+           $map['memberId'] = $value['superMemberid'];
            $superMemberInfo = $member_info->where($map)->select();
            $list[$key]['superMemberInfo'] = $superMemberInfo;
          }

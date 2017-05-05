@@ -22,15 +22,15 @@ class UserController extends Controller {
       //dump($user_info);exit;
       $pageNum = isset($_POST['pageNum'])?$_POST['pageNum']:5;
       $page = isset($_POST['page'])?$_POST['page']:1;
-      $timestart = date("Y-m-d H:i:s",strtotime($_POST['starTime']));
-      $timeend = date("Y-m-d H:i:s",strtotime($_POST['endTime']));
+      $starTime = date("Y-m-d H:i:s",strtotime($_POST['starTime']));
+      $timeEnd = date("Y-m-d H:i:s",strtotime($_POST['endTime']));
 
-      if(!empty($_POST['memberId'])){
-        $map['memberId'] = $_POST['memberid'];
-      }
-      if(!empty($_POST['agentId'])){
-        $map['agentId'] = $_POST['agentid'];
-      }
+//      if(!empty($_POST['memberId'])){
+//        $map['memberId'] = $_POST['memberid'];
+//      }
+//      if(!empty($_POST['agentId'])){
+//        $map['agentId'] = $_POST['agentid'];
+//      }
       if(empty($_POST['nickname'])){
         $map['user_info.nickname'] = array('like',$_POST['nickname']."%");
       }
@@ -39,17 +39,24 @@ class UserController extends Controller {
       }
 
       if(!empty($_POST['start_time']) || !empty($_POST['end_time'])){
-        $map['registerTime'] = array(array('gt','$timestart'),arry('lt','timeend')) ;
+        $map['registerTime'] = array(array('gt','$starTime'),arry('lt','$timeEnd')) ;
       }
-       $count = $user_info->join('member_info  ON user_info.memberId = member_info.memberid ')->join('agent_info ON agent_info.code = user_info.agentId')->where($map)->count();// 查询满足要求的总记录数
-       $list = $user_info->join('member_info  ON user_info.memberId = member_info.memberid ')->join('agent_info ON agent_info.code = user_info.agentId')->where($map)->page($page,$pageNum)->select();//获取分页数据
+       $count = $user_info->where($map)->count();// 查询满足要求的总记录数
+       $list = $user_info->where($map)->page($page,$pageNum)->select();//获取分页数据
 
+        foreach ($list as $key =>$value){
+            $memberMap['memberId'] = $value['memberId'];
+            $agentMap['code'] = $value['agentId'];
+            $list[$key]['memberInfo'] = M('member_info')->where($memberMap)->find();
+            $list[$key]['ageInfo'] = M('agent_info')->where($agentMap)->find();
+        }
        $Page       = new \Think\Page($count,$pageNum);// 实例化分页类 传入总记录数和每页显示的记录数(25)
        $data['totalPages'] = $count;
        $data['pageNum'] =$pageNum;
        $data['page'] = $page;
        $data['totalPages'] = ceil($count/$pageNum);
        $data['list'] = $list;
+
            $this->ajaxReturn($data);
     }
 

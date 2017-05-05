@@ -5,18 +5,18 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <title></title>
-    <link rel="stylesheet" href="/tp/Public/template/assets/css/index.min.css">
+    <link rel="stylesheet" href="/tp-hangkong/Public/template/assets/css/index.min.css">
   </head>
   <body>
     <div class="wrap">
       <div class="header">
         <div class="clearfix layout">
-          <h1><a href="/tp/index.php/Home/accountmanage/orgManage">交易管理系统</a></h1>
-          <div><a href="/tp/index.php/Home/accountmanage/orgManage" >账户管理</a><a href="/tp/index.php/Home/clientmanage/clientList" class="active">客户管理</a><a href="/tp/index.php/Home/countmanage/countTable">结算管理</a><a href="/tp/index.php/Home/sysmanage/pwdManage">系统管理</a></div>
+          <h1><a href="/tp-hangkong/index.php/Home/accountmanage/orgManage">交易管理系统</a></h1>
+          <div><a href="/tp-hangkong/index.php/Home/accountmanage/orgManage" >账户管理</a><a href="/tp-hangkong/index.php/Home/clientmanage/clientList" class="active">客户管理</a><a href="/tp-hangkong/index.php/Home/countmanage/countTable">结算管理</a><a href="/tp-hangkong/index.php/Home/sysmanage/pwdManage">系统管理</a></div>
         </div>
       </div>
       <div class="main">
-        <div class="sidebar"><a href="/tp/index.php/Home/clientmanage/clientList" class="active">客户列表</a><a href="/tp/index.php/Home/clientmanage/chiCangSearch">持仓查询</a><a href="/tp/index.php/Home/clientmanage/pingCangSearch">平仓查询</a><a href="/tp/index.php/Home/clientmanage/chuRuJinSearch">出入金查询</a></div>
+        <div class="sidebar"><a href="/tp-hangkong/index.php/Home/clientmanage/clientList" class="active">客户列表</a><a href="/tp-hangkong/index.php/Home/clientmanage/chiCangSearch">持仓查询</a><a href="/tp-hangkong/index.php/Home/clientmanage/pingCangSearch">平仓查询</a><a href="/tp-hangkong/index.php/Home/clientmanage/chuRuJinSearch">出入金查询</a></div>
         <div class="content">
           <div class="control-bar"><a href="javascript:;" class="btn">导出EXL</a></div>
           <div class="search-bar">注册时间:
@@ -51,7 +51,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -62,7 +62,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -73,7 +73,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -84,7 +84,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -95,7 +95,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -106,7 +106,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -117,7 +117,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -128,7 +128,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -139,7 +139,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
                 <tr>
                   <td>
@@ -150,7 +150,7 @@
                   <td>13200989999</td>
                   <td>华东</td>
                   <td>张全蛋</td>
-                  <td><a href="/tp/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
+                  <td><a href="/tp-hangkong/index.php/Home/clientmanage/clientListView/buyLog?id=123">查看</a><span>|</span><a href="javascript:;" class="J_showChangeLine">额度</a><span>|</span><a href="javascript:;" class="J_showStopTrade">停止交易</a></td>
                 </tr>
               </tbody>
             </table>
@@ -186,7 +186,7 @@
         <div class="remodal-footer"><a href="javascript:;" data-remodal-action="confirm" class="remodal-confirm">确认</a><a href="javascript:;" data-remodal-action="cancel" class="remodal-cancel">取消</a></div>
       </div>
     </div>
-    <script src="/tp/Public/template/assets/js/vendor/require.js" data-main="/tp/Public/template/assets/js/common"></script>
+    <script src="/tp-hangkong/Public/template/assets/js/vendor/require.js" data-main="/tp-hangkong/Public/template/assets/js/common"></script>
     <script>
       require(['common'], function () {
           require(['page/clientList']);
